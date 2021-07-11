@@ -1,0 +1,114 @@
+    box-sizing:border-box;
+}
+body{
+    margin:0;
+    background:white;
+}
+nav{
+    background:#7FFFD4;
+    width:100%;
+    overflow:auto;
+}
+
+ul{
+    margin:0;
+    padding:0;
+    list-style:none:
+}
+li{
+    float:left;
+}body{
+    font-family: Monserrat, Helvetica, sans-serif;
+    padding: 0;
+    margin:0;
+}
+label.logo{
+    color: cyan;
+    font-size: 55px;
+    text-align: center;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+.container{
+    width: 65%;
+    height: auto;
+    background:  cadetblue;
+    margin:auto;
+    margin-top: 5px;
+    padding-bottom: 5px;
+}
+
+p{
+	color: magenta(0, 0%, 86%);
+    font-size: 8px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 17px;
+    font-family: "Times New Roman", Times, serif
+}
+
+th{
+    background-color: turquoise;
+}
+
+td{
+    background-color: turquoise;
+}
+
+article {
+    width: 100%;
+    height: auto;
+    border-radius: 3px;
+    margin: 5px 5px 5px 5px;
+    border: 1px solid gainsboro;
+    clear: both;
+}
+
+footer {
+    clear: both;
+    width: 98.8%;
+    height: auto;
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+    border-radius: 3px;
+    border-bottom: 1px solid gainsboro;
+    padding-top: 15px;
+    padding-bottom: 15px
+}
+
+h1{
+ font-size: 5px;
+ text-align: center;
+ font-family: "Times New Roman", Times, serif;
+ background: hsl 0, 0%, 71%;
+ color: black;
+}
+.grid-container {
+  display: grid;
+  grid-gap: 50px;
+  grid-template-columns: auto auto auto;
+  background-color: red ;
+  padding: 10px;
+}
+
+.grid-item {
+  padding: 20px;
+  font-size: 10px;
+  text-align: left;
+}
+
+img{
+  width: 400px;
+  height: 400px
+}
+
+p{
+  font-size: 15px
+}
+.#contact{
+    
+}
